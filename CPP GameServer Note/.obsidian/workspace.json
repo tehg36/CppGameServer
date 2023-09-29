@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "f7f133ec6134c72e",
+    "type": "split",
+    "children": [
+      {
+        "id": "268a7a41e44f9cdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3824ade6dc621a2a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c67607c57d6e49af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visual Studio 설정 관련.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d092574ff8ef9824",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Server Core 프로젝트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "848ca57e9142b525",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visual Studio 설정 관련.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f99913a2233dcb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "이론/멀티쓰레드.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3e09d922f7319ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f2a431d05fa4215",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7a063763a827d9e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc01a23d95339952",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "25645303013922f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a26a914909f9a102",
+    "type": "split",
+    "children": [
+      {
+        "id": "85854c65ce3bbbda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2dc23b161789e0d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "이론/멀티쓰레드.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e841ede06cc3937",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "이론/멀티쓰레드.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cfd33066968a8198",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9628a9b1eb819484",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "이론/멀티쓰레드.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "1f99913a2233dcb1",
+  "lastOpenFiles": [
+    "이론",
+    "Visual Studio 설정 관련.md",
+    "이론/멀티쓰레드.md",
+    "Game Server 프로젝트.md",
+    "Server Core 프로젝트.md"
+  ]
+}
